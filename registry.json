@@ -5,7 +5,7 @@
     {
       "id": "spotify-web",
       "name": "Spotify Web",
-"version": "1.1.0",
+"version": "1.1.1",
       "author": "Zarz (Credit: afkarxyz)",
       "description": "Integration with Spotify Web for enhanced playback and downloading capabilities.",
       "category": "integration",
