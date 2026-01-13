@@ -1,18 +1,21 @@
 {
   "version": 1,
-  "lastUpdated": "2026-01-13",
-"extensions": [
+  "updated_at": "2026-01-13T18:30:20Z",
+  "extensions": [
     {
       "id": "spotify-web",
-      "name": "Spotify Web",
-"version": "1.1.1",
-      "author": "Zarz (Credit: afkarxyz)",
+      "name": "spotify-web",
+      "display_name": "Spotify Web",
+      "version": "1.1.1",
+      "author": "Zarz",
       "description": "Integration with Spotify Web for enhanced playback and downloading capabilities.",
+      "download_url": "https://github.com/zarzet/SpotiFLAC-Extension/releases/download/spotify-web-v1.1.1/spotify-web.spotiflac-ext",
+      "icon_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/icons/spotify-web.png",
       "category": "integration",
-      "iconUrl": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/icons/spotify-web.png",
-      "downloadUrl": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/spotify-web.spotiflac-ext",
-      "homepage": "https://zarz.moe/docs",
-      "minAppVersion": "2.1.0"
+      "tags": ["spotify", "web", "streaming"],
+      "downloads": 0,
+      "updated_at": "2026-01-13T18:30:20Z",
+      "min_app_version": "2.1.0"
     }
   ]
 }
